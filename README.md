@@ -24,7 +24,7 @@ Python_ML_Study : 파이썬 머신러닝 라이브러리 및 알고리즘별 실
 Python-Crawling_Study : 파이썬 크롤링 라이브러리 실습 파일<br><br>
 Python_DL_Study : 파이썬 딥러닝 프레임워크 실습 파일<br><br>
 R_Study : R 통계 라이브러리 실습 파일<br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 <img src="https://github.com/Aurna-code/101/blob/main/turtleflower.png">
