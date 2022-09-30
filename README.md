@@ -19,7 +19,7 @@ Java_study : 자바 실습 코드(이클립스)<br><br>
 HTML_CSS_Javascript_study : HTML, CSS, Javascript 실습코드(Eclipse)<br><br>
 PY4E2022_missionSolutions : 네이버 커넥트재단 부스트코스 코딩문제 답안 코드<br><br>
 Pyspark_study : 파이스파크 DB 실습 코드<br><br>
-Telegram_bots : 텔레그램 안내 봇 실습 코드<br><br>
+Telegram_bots : 텔레그램 자동화 안내 봇 실습 코드<br><br>
 Python_ML_Study : 파이썬 머신러닝 라이브러리 및 알고리즘별 실습 파일<br><br>
 Python-Crawling_Study : 파이썬 크롤링 라이브러리 실습 파일<br><br>
 Python_DL_Study : 파이썬 딥러닝 프레임워크 실습 파일<br><br>
