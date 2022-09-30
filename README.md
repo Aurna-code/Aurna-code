@@ -7,7 +7,7 @@
 <br><br>
 ___
 <br><br>
-### ↘️ 리포지토리별 업로드 파일
+### ↘️ 리포지토리 업로드 파일
 <br><br>
 - 101 : 프로필<br><br>
 - 프로젝트 및 포트폴리오 파일과 코드(https://github.com/Aurna-code/Projects_code)<br><br>
@@ -24,6 +24,8 @@ ___
 - R 통계 라이브러리 실습 파일(https://github.com/Aurna-code/R_Study)<br><br>
 
 ___
+<br><br>
+<img src="https://github.com/Aurna-code/101/blob/main/DKCsquawks.png" height="393" width="300">
 
 <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
