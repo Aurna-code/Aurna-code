@@ -4,7 +4,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, Cloud, Open World Games, SF Novels, SOMA, Astronomy, Internation Law, Reinforcement Learning
 - 🌱 I’m currently learning C, Machine Learning, Deep Learning, Reinforcement Learning
 - 📫 How to reach me ... hynk1240@gmail.com or kyre1420@naver.com or (82)10-5303-9685
-<br>
+<br><br>
 ___
 ### ↘️ Repositories Description
 <br>
@@ -20,7 +20,9 @@ Telegram_bots : 텔레그램 자동화 안내 봇 실습 코드(https://github.c
 Python_ML_Study : 파이썬 머신러닝 라이브러리 및 알고리즘별 실습 파일(https://github.com/Aurna-code/Python_ML_Study)<br><br>
 Python-Crawling_Study : 파이썬 크롤링 라이브러리 실습 파일(https://github.com/Aurna-code/Python-Crawling_Study)<br><br>
 Python_DL_Study : 파이썬 딥러닝 프레임워크 실습 파일(https://github.com/Aurna-code/Python_DL_Study)<br><br>
-R_Study : R 통계 라이브러리 실습 파일(https://github.com/Aurna-code/R_Study)<br>
+R_Study : R 통계 라이브러리 실습 파일(https://github.com/Aurna-code/R_Study)<br><br>
+
+___
 
 <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
