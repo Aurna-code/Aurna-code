@@ -1,3 +1,5 @@
+<img src="https://github.com/Aurna-code/101/blob/main/Enguarde_Artwork_-_Donkey_Kong_Country.png" height="246" width="320">
+
 - 👋 Hi, I’m @Aurna-code
 - 👀 I’m interested in Machine Learning, Deep Learning, Cloud, Open World Games, SF Novels, SOMA, Astronomy, Internation Law, Reinforcement Learning
 - 🌱 I’m currently learning C, Machine Learning, Deep Learning, Reinforcement Learning
