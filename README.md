@@ -24,7 +24,11 @@ ___
 - R 통계 라이브러리 실습 파일(https://github.com/Aurna-code/R_Study)<br><br>
 
 ___
-<br><br>
+
+<p align="center">
+<img src="https://github.com/Aurna-code/101/blob/main/turtleflower.png" height="520" width="700">
+</p>
+
 ### ↘️ 신입 개발자가 되기 위한 공부들
 <br><br>
 
@@ -59,7 +63,7 @@ ___
 3. AWS DeepRacer Student Model 제작 후 3분 이내 트랙 완주<br>
 - Track : Rogue Circuit<br>
 - Algorithm : PPO<br>
-- Model description : Follow the centerline 프리셋의 reward function을 기반으로 Stay within borders, Prevent zig-zag reward function의 일부를 추가하고 steering_angle, steps 등의 reward 수치 조정<br>
+- Model description : Follow the centerline 프리셋의 reward function을 기반으로<br>Stay within borders, Prevent zig-zag reward function의 일부를 추가하고 steering_angle, steps 등의 reward 수치 조정<br>
 - Training time : 50 minute<br>
 <br><br><br>
  
@@ -89,6 +93,3 @@ ___
 <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<p align="center">
-<img src="https://github.com/Aurna-code/101/blob/main/turtleflower.png">
-</p>
