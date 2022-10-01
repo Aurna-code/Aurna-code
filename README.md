@@ -1,4 +1,4 @@
-<img src="https://github.com/Aurna-code/101/blob/main/Enguarde_DK_Barrel_Blast_artwork.jpg" height="280" width="306">
+<img src="https://github.com/Aurna-code/101/blob/main/Enguarde_DK_Barrel_Blast_artwork-removebg-preview.png" height="280" width="306">
 
 - 👋 Hi, I’m @Hyunil_Kim
 - 👀 I’m interested in Machine Learning, Deep Learning, Cloud, Open World Games, SF Novels, SOMA, Astronomy, Internation Law, Reinforcement Learning
@@ -25,11 +25,11 @@ ___
 
 ___
 <br><br>
-### ↘️ 신입 개발자로 향하는 여정
+### ↘️ 신입 개발자가 되기 위한 공부들
 <br><br>
 
 1. 더조은컴퓨터학원 구로점
-<br>
+<br><br>
 - 강좌명 : K-디지털 트레이닝 빅데이터분석 기반 AI & RPA 솔루션 개발<br>
 - 강좌 기간 :  2021.07 ~ 2022.03<br>
 - 주요 학습내용 : 파이썬, R, HTML, CSS<br> 
@@ -82,10 +82,13 @@ ___
 <br><br><br>
 
 
-<img src="https://github.com/Aurna-code/101/blob/main/DKCsquawks.png" height="393" width="300">
+<p align="center">
+<img src="https://github.com/Aurna-code/101/blob/main/index2.png">
+</p>
 
 <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-
+<p align="center">
 <img src="https://github.com/Aurna-code/101/blob/main/turtleflower.png">
+</p>
