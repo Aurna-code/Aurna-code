@@ -24,40 +24,34 @@ ___
 - R 통계 라이브러리 실습 파일(https://github.com/Aurna-code/R_Study)<br><br>
 
 ___
-
-<p align="center">
-<img src="https://github.com/Aurna-code/101/blob/main/turtleflower.png" height="520" width="700">
-</p>
-
-### ↘️ 신입 개발자가 되기 위한 공부들
 <br><br>
 
-1. 더조은컴퓨터학원 구로점
-<br><br>
+
+### ↘️ 개발 공부
+<br>
+
+#### 1) 더조은컴퓨터학원 구로점
 - 강좌명 : K-디지털 트레이닝 빅데이터분석 기반 AI & RPA 솔루션 개발<br>
 - 강좌 기간 :  2021.07 ~ 2022.03<br>
 - 주요 학습내용 : 파이썬, R, HTML, CSS<br> 
 - 사용 IDE, Application, Framework : Pycharm, Jupyter Lab, Visual Studio Code, RStudio, DBeaver, UiPath<br>
-- 상세 교육 내용 :<br><br> 
+- 상세 교육 내용 :
 1. scikit-learn 라이브러리와 matplotlib, seaborn, KoNLpy를 이용한 머신러닝 데이터 분석 및 시각화(Titanic, Pima)<br>
 2. Beautifulsoup을 활용한 Telegram 자동화 프로세스 코딩, folium을 이용한 구글맵 시각화로 코로나19 진료소 위치 표시<br>
 3. R, Python 언어와 ggplot, dplyr, Scikit-learn 라이브러리를 사용한 머신러닝 데이터 분석 및 시각화<br>
 4. AWS EC2 free tier 서버와 RDS 데이터베이스를 구축하고 Centos7 OS를 설치해 Hadoop, PySpark 설치 및 활용<br>
 5. DBeaver, Hive를 통한 MariaDB 데이터베이스 활용 실습<br>
-6. UiPath RPA 응용프로그램 활용 및 Cognigy 챗봇 프로그램 작성<br>
-<br>
+6. UiPath RPA 응용프로그램 활용 및 Cognigy 챗봇 프로그램 작성<br><br>
 - 참가 프로젝트 1 : 머드축제 개선 사항을 위한 기획안<br>
-- 프로젝트에서의 역할 : 발표, 공공데이터포털 데이터 수집, 시각화 아이디어 제안<br>
-<br>
+- 프로젝트에서의 역할 : 발표, 공공데이터포털 데이터 수집, 시각화 아이디어 제안<br><br>
 - 참가 프로젝트 2 : 서울시생활폐기물 분석 프로젝트<br>
 - 프로젝트에서의 역할 : Scikit-learn 과 dplyr, ggplot 라이브러리로 서울시 구별 생활폐기물과 교통, 인구 데이터 분석<br>
 <br><br><br>
 
 
-2) AWS DeepRacer Student League<br>
-<br>
-결과 : AWS AI & ML scholarship Nanodegree Prequalified<br><br>
-과정 :<br><br>
+#### 3) AWS DeepRacer Student League<br>
+결과 : AWS AI & ML scholarship Nanodegree Prequalified<br>
+과정 :
 1. Introduction to machine learning lesson 수강<br>
 2. AWS AI & ML 퀴즈 통과<br>
 3. AWS DeepRacer Student Model 제작 후 3분 이내 트랙 완주<br>
@@ -68,8 +62,7 @@ ___
 <br><br><br>
  
 
-3) 한국폴리텍대학 정수캠퍼스<br>
-
+#### 4) 한국폴리텍대학 정수캠퍼스<br>
 - 과정명 : 인공지능소프트웨어 하이테크 과정<br>
 - 과정 기간 : 2022.03 ~ 2022.12<br>
 - 주요 학습내용 : 소프트웨어 공학, 자료구조, 알고리즘, 인공지능, JAVA 웹 개발, 리눅스 프로그래밍<br>
@@ -83,8 +76,7 @@ ___
 - 제작 프로젝트 : Tensorflow와 CNN을 이용한 숫자 이미지 분류<br>
 - 프로젝트 URL : https://github.com/Aurna-code/Projects_code<br>
 - 프로젝트에서의 역할 : PPT 제작, 논문 탐색 및 신경망 적용<br>
-<br><br><br>
-
+<br><br><br><br><br>
 
 <p align="center">
 <img src="https://github.com/Aurna-code/101/blob/main/index2.png">
@@ -93,3 +85,6 @@ ___
 <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<p align="center">
+<img src="https://github.com/Aurna-code/101/blob/main/turtleflower.png">
+</p>
