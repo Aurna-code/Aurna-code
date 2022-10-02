@@ -46,7 +46,9 @@ ___
 - 프로젝트에서의 역할 : 발표, 공공데이터포털 데이터 수집, 시각화 아이디어 제안<br><br>
 - 참가 프로젝트 2 : 서울시생활폐기물 분석 프로젝트<br>
 - 프로젝트에서의 역할 : Scikit-learn 과 dplyr, ggplot 라이브러리로 서울시 구별 생활폐기물과 교통, 인구 데이터 분석<br>
-<br><br><br>
+<br><br>
+#### 2) Bertelsmann-tech-scholarships AI track<br>
+- 수강 내용 : 머신러닝 지도학습 평가, 최적화, 학습 알고리즘, 제한조건 하의 모델 튜닝<br><br><br>
 
 
 #### 3) AWS DeepRacer Student League<br>
@@ -54,13 +56,8 @@ ___
 과정 :
 1. Introduction to machine learning lesson 수강<br>
 2. AWS AI & ML 퀴즈 통과<br>
-3. AWS DeepRacer Student Model 제작 후 3분 이내 트랙 완주<br>
-- Track : Rogue Circuit<br>
-- Algorithm : PPO<br>
-- Model description : Follow the centerline 프리셋의 reward function을 기반으로<br>Stay within borders, Prevent zig-zag reward function의 일부를 추가하고 steering_angle, steps 등의 reward 수치 조정<br>
-- Training time : 50 minute<br>
-<br><br><br>
- 
+3. AWS DeepRacer Student Model 제작 후 3분 이내 트랙 완주<br><br><br>
+
 
 #### 4) 한국폴리텍대학 정수캠퍼스<br>
 - 과정명 : 인공지능소프트웨어 하이테크 과정<br>
