@@ -1,7 +1,7 @@
 <img src="https://github.com/Aurna-code/101/blob/main/Enguarde_DK_Barrel_Blast_artwork-removebg-preview.png" height="280" width="306">
 
 
-- 안녕하세요. 데이터 분석과 AI, 웹 분야에 관심이 많은 신입 개발자 김현일입니다.
+- 안녕하세요. 데이터 분석과 AI, 웹 분야를 지망하는 신입 개발자 김현일입니다.
 - 👋 Hi, I’m @Hyunil_Kim
 - 👀 I’m interested in Machine Learning, Deep Learning, Cloud, Open World Games, SF Novels, SOMA, Astronomy, Internation Law, Reinforcement Learning
 - 🌱 I’m currently learning C, Machine Learning, Deep Learning, Reinforcement Learning
@@ -12,7 +12,7 @@
 <br><br>
 ___
 <br><br>
-### ↘️ 리포지토리 업로드 파일
+### ↘️ 배우고 사용한 기술들 - 리포지토리 업로드 목록
 <br><br>
 - 101 : 프로필<br><br>
 - 프로젝트 및 포트폴리오 파일과 코드(https://github.com/Aurna-code/Projects_code)<br><br>
@@ -32,7 +32,7 @@ ___
 <br><br>
 
 
-### ↘️ 개발 공부
+### ↘️ 개발 공부 이력
 <br>
 
 #### 1) 더조은컴퓨터학원 구로점
