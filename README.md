@@ -80,7 +80,7 @@ ___
 </p>
 
 <br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <p align="center">
 <img src="https://github.com/Aurna-code/101/blob/main/turtleflower.png">
