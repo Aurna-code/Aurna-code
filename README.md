@@ -60,9 +60,9 @@ ___
 4. AWS EC2 free tier 서버와 RDS 데이터베이스를 구축하고 Centos7 OS를 설치해 Hadoop, PySpark 설치 및 활용<br>
 5. DBeaver, Hive를 통한 MariaDB 데이터베이스 활용 실습<br>
 6. UiPath RPA 응용프로그램 활용 및 Cognigy 챗봇 프로그램 작성<br><br>
-- 참가 프로젝트 1 : 머드축제 개선 사항을 위한 기획안<br>
+- 토이 프로젝트 1 : 머드축제 개선 사항을 위한 기획안<br>
 - 프로젝트에서의 역할 : 발표, 공공데이터포털 데이터 수집, 시각화 아이디어 제안<br><br>
-- 참가 프로젝트 2 : 서울시생활폐기물 분석 프로젝트<br>
+-  프로젝트 2 : 서울시생활폐기물 분석 프로젝트<br>
 - 프로젝트에서의 역할 : Scikit-learn 과 dplyr, ggplot 라이브러리로 서울시 구별 생활폐기물과 교통, 인구 데이터 분석<br>
 <br><br><br>
 #### 2) Bertelsmann-tech-scholarships AI track<br>
