@@ -41,6 +41,7 @@ ___
 <br><br>
 
 <p align="center">
+<img src = "https://github.com/Aurna-code/101/blob/main/turtleflower.png" height="400", width="400">
 </p>
 
 <br><br>
@@ -63,10 +64,9 @@ ___
 - 프로젝트에서의 역할 : 발표, 공공데이터포털 데이터 수집, 시각화 아이디어 제안<br><br>
 - 참가 프로젝트 2 : 서울시생활폐기물 분석 프로젝트<br>
 - 프로젝트에서의 역할 : Scikit-learn 과 dplyr, ggplot 라이브러리로 서울시 구별 생활폐기물과 교통, 인구 데이터 분석<br>
-<br><br>
+<br><br><br>
 #### 2) Bertelsmann-tech-scholarships AI track<br>
 - 수강 내용 : 머신러닝 지도학습 평가, 최적화, 학습 알고리즘, 제한조건 하의 모델 튜닝<br><br><br>
-
 
 #### 3) AWS DeepRacer Student League<br>
 결과 : AWS AI & ML scholarship Nanodegree Prequalified<br>
