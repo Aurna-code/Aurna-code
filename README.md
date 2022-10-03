@@ -1,5 +1,6 @@
+<p align="center">
 <img src="https://github.com/Aurna-code/101/blob/main/Enguarde_DK_Barrel_Blast_artwork-removebg-preview.png" height="280" width="306">
-
+</p>
 
 - 안녕하세요. 데이터 분석과 AI, 웹 분야를 지망하는 신입 개발자 김현일입니다.
 - 👋 Hi, I’m @Hyunil_Kim
@@ -12,6 +13,15 @@
 <br><br>
 ___
 <br><br>
+
+<br><br>
+
+<p align="center">
+<img src="https://github.com/Aurna-code/101/blob/main/index2.png" height="300" width="300">
+</p>
+
+<br>
+<br>
 ### ↘️ 배우고 사용한 기술들 - 리포지토리 업로드 목록
 <br><br>
 - 101 : 프로필<br><br>
@@ -31,7 +41,9 @@ ___
 ___
 <br><br>
 
-
+<p align="center">
+<img src="https://github.com/Aurna-code/101/blob/main/turtleflower.png" height="370" width="480">
+</p>
 ### ↘️ 개발 공부 이력
 <br>
 
@@ -78,15 +90,4 @@ ___
 - 제작 프로젝트 : Tensorflow와 CNN을 이용한 숫자 이미지 분류<br>
 - 프로젝트 URL : https://github.com/Aurna-code/Projects_code<br>
 - 프로젝트에서의 역할 : PPT 제작, 논문 탐색 및 신경망 적용<br>
-<br><br><br><br><br>
-
-<p align="center">
-<img src="https://github.com/Aurna-code/101/blob/main/index2.png">
-</p>
-
-<br>
-<br><br><br><br><br><br>
-
-<p align="center">
-<img src="https://github.com/Aurna-code/101/blob/main/turtleflower.png">
-</p>
+<br><br>
