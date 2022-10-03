@@ -17,7 +17,7 @@ ___
 <br><br>
 
 <p align="center">
-<img src="https://github.com/Aurna-code/101/blob/main/index2.png" height="300" width="300">
+<img src="https://github.com/Aurna-code/101/blob/main/index2.png" height="400" width="400">
 </p>
 
 <br><br>
