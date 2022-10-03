@@ -47,7 +47,7 @@ ___
 ### ↘️ 개발 공부 이력
 <br>
 
-#### 1) 더조은컴퓨터학원 구로점
+### 1) 더조은컴퓨터학원 구로점
 - 강좌명 : K-디지털 트레이닝 빅데이터분석 기반 AI & RPA 솔루션 개발<br>
 - 강좌 기간 :  2021.07 ~ 2022.03<br>
 - 주요 학습내용 : 파이썬, R, HTML, CSS<br> 
@@ -64,11 +64,11 @@ ___
 - 참가 프로젝트 2 : 서울시생활폐기물 분석 프로젝트<br>
 - 프로젝트에서의 역할 : Scikit-learn 과 dplyr, ggplot 라이브러리로 서울시 구별 생활폐기물과 교통, 인구 데이터 분석<br>
 <br><br>
-#### 2) Bertelsmann-tech-scholarships AI track<br>
+### 2) Bertelsmann-tech-scholarships AI track<br>
 - 수강 내용 : 머신러닝 지도학습 평가, 최적화, 학습 알고리즘, 제한조건 하의 모델 튜닝<br><br><br>
 
 
-#### 3) AWS DeepRacer Student League<br>
+### 3) AWS DeepRacer Student League<br>
 결과 : AWS AI & ML scholarship Nanodegree Prequalified<br>
 과정 :
 1. Introduction to machine learning lesson 수강<br>
@@ -76,16 +76,18 @@ ___
 3. AWS DeepRacer Student Model 제작 후 3분 이내 트랙 완주<br><br><br>
 
 
-#### 4) 한국폴리텍대학 정수캠퍼스<br>
+### 4) 한국폴리텍대학 정수캠퍼스<br>
 - 과정명 : 인공지능소프트웨어 하이테크 과정<br>
 - 과정 기간 : 2022.03 ~ 2022.12<br>
 - 주요 학습내용 : 소프트웨어 공학, 자료구조, 알고리즘, 인공지능, JAVA 웹 개발, 리눅스 프로그래밍<br>
 - 사용 IDE, Application, Framework : Colab, Java Eclipse, Visual Studio Code, Spring<br>
 - 상세 교육 내용 :<br> 
-1. Tensorflow와 keras, OpenCV, numpy를 이용한 딥러닝 모델 응용 및 개선(MNIST 데이터셋과 Kaggle 데이터에 여러 CNN 적용)<br>
-2. Oracle, MySQL, Maria DB - Java Servlet, JSP에 연동<br>
-3. HTML, CSS, Javascript - 관심사에 기반하여 간단한 사이트 제작<br>
-4. Java - JSP, Servlet으로 Tomcat 서버를 활용하여 기초적인 쇼핑몰 사이트 양식 제작<br><br>
+
+1. 제품 개발에 관한 요구 명세서 작성을 비롯한 개발 프로세스 탐색
+2. Tensorflow와 keras, OpenCV, numpy를 이용한 딥러닝 모델 응용 및 개선(MNIST 데이터셋과 Kaggle 데이터에 여러 CNN 적용)<br>
+3. Oracle, MySQL, Maria DB - Java Servlet, JSP에 연동<br>
+4. HTML, CSS, Javascript - 관심사에 기반하여 간단한 사이트 제작<br>
+5. Java - JSP, Servlet으로 Tomcat 서버를 활용하여 기초적인 쇼핑몰 사이트 양식 제작<br><br>
 
 - 제작 프로젝트 : Tensorflow와 CNN을 이용한 숫자 이미지 분류<br>
 - 프로젝트 URL : https://github.com/Aurna-code/Projects_code<br>
