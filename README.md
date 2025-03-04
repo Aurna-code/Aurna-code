@@ -3,7 +3,7 @@
 </p>
 
 - 👋 Hi, I’m @Hyunil_Kim
-- 👀 I’m interested in Machine Learning, Deep Learning, Cloud, Open World Games, SF Novels, SOMA, Astronomy, Internation Law, Reinforcement Learning
-- 🌱 I’m currently learning C, Machine Learning, Deep Learning, Reinforcement Learning
+- 👀 I’m interested in Machine Learning, Deep Learning, Cloud, Open World Games, SF Novels, Astronomy, Internation Law
+- 🌱 I’m currently learning Data Science, AI Agent
 - 📫 How to reach me ... hynk1240@gmail.com or kyre1420@naver.com or (82)10-5303-9685
 
